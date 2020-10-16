@@ -78,7 +78,7 @@ public class UpdateJob implements Job {
                             //最大玩家数
                             "maxplayers=5\n" +
                             //密码
-                            "password=xiezi\n" +
+                            "password=你的密码\n" +
                             //世界文件存放文件夹
                             "worldpath=C:/Users/Administrator/Documents/My Games/Terraria/Worlds");
                     bw.close();
